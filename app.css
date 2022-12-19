@@ -1,0 +1,17 @@
+/*COMMON STYLES*/
+html {
+  height: 100%;
+}
+body {
+  background-color: #345;
+  margin: 0;
+  color: white;
+  height: 100%;
+}
+
+/*STORIES COMPONENT STYLES*/
+
+.stories {
+  border: 1px dotted white;
+  height: 33,3%;
+}
